@@ -16,6 +16,7 @@ Para ejecutar los *notebooks* contenidos en este repositorio tienes varias opcio
         ```
         cd ml_course
         conda env create -f environment.yml
+		conda activate ml_course
         ```
         
     3. Lanza `jupyter notebook` y abre el *notebook* que te interese.
