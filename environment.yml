@@ -1,4 +1,4 @@
-name: env
+name: ml_course
 dependencies:
   - python=3.6
   - pip
