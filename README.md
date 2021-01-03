@@ -4,11 +4,11 @@ Este repositorio incluye el material didáctico para un curso introductorio sobr
 Está organizado como sigue:
 - El directorio `material` contiene ficheros Markdown y Jupyter Notebooks donde se desarrolla el contenido principal del curso.
 - El directorio `activities` contiene actividades resueltas que se pueden utilizar a modo de ejemplo durante el curso.
-- Los direcorios `activities` y `template` son directorios auxiliares utilizados para la exportación del material a otros formatos.
+- Los directorios `build` y `template` no son relevantes para el curso. Son directorios auxiliares utilizados para la exportación del material a otros formatos.
 
 ## Cómo ejecutar
 Para ejecutar los *notebooks* contenidos en este repositorio tienes varias opciones:
-1. Tu propia máquina: 
+1. Utilizar tu propia máquina: 
     1. Clona este repositorio:
     
         ```
@@ -29,8 +29,9 @@ Para ejecutar los *notebooks* contenidos en este repositorio tienes varias opcio
        jupyter notebook
        ```
        
-2. MyBinder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/masdeseiscaracteres/ml_course/master)
-3. Google Colab: cada notebook incluye un enlace para ejecutarlo en Google Colab.
+2. Utilizar MyBinder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/masdeseiscaracteres/ml_course/master)
+3. Utilizar Google Colab: en cada notebook encontrarás un enlace para ejecutarlo en Google Colab.
+4. Utilizar Deepnote: en cada notebook encontrarás un enlace para ejecutarlo en [Deepnote](https://deepnote.com).
 
 ## Cómo visualizar
 Si solo quieres visualizar los *notebooks* en este repositorio también tienes varias opciones:
