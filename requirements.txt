@@ -56,6 +56,6 @@ wcwidth==0.1.9
 webencodings==0.5.1
 zipp==3.1.0
 # Windows-specific derived requirements
-pywin32==227; platform_system == "windows"
+pywin32==301; platform_system == "windows"
 pywinpty==0.5.7; platform_system == "windows"
 wincertstore==0.2; platform_system == "windows"
